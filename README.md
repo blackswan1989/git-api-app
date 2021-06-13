@@ -9,7 +9,7 @@
 
 <br>
 
-작업 파일은 component 폴더를 확인해 주세요
+작업 파일은 components 폴더를 확인해 주세요
 
 <br>
 
