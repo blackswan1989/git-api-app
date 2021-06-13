@@ -30,7 +30,6 @@ const IssueList = () => {
       setLoading(true);
       try {
         const response = await axios.get('https://api.github.com/organizations');
-        setArticles(response.data);
         console.log(response.data);
       }
       catch (e) {
@@ -46,7 +45,6 @@ const IssueList = () => {
   }
 
   if(!articles) {
-    console.log("here")
     return null;
   }
 
