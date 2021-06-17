@@ -1,14 +1,14 @@
 # README
 
-### API : https://docs.github.com/en/rest 
+### 사용 할 API : https://docs.github.com/en/rest 
 
-### Issue URL : https://github.com/angular/angular-cli
+### 불러올 이슈 URL : https://github.com/angular/angular-cli
 
 <br>
 
-## task 
+## 목표 
 
-github rest api를 사용해 angular-cli의 이슈를 불러와 정리해주는 어플리케이션
+github rest api를 사용해 angular-cli의 이슈를 불러와 정리해주는 어플리케이션 제작
 
 첫번째 페이지에는 이슈 목록(이슈번호, 제목 등)이 출력, 이슈 클릭시 해당 이슈의 상세 페이지 출력.
 
