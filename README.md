@@ -1,4 +1,4 @@
-# README
+# React Practice
 
 ### 사용 할 API : https://docs.github.com/en/rest 
 
